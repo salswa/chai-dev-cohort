@@ -1,6 +1,7 @@
-###Mood Tracker
+## Mood Tracker
+**URL:** https://salswa.github.io/chai-dev-cohort/masterji-assignments/JS_Assignment_1/ 
 
-Objective: Create a daily mood tracker where users log their mood each day and visualize their emotional trends
+**Objective:** Create a daily mood tracker where users log their mood each day and visualize their emotional trends
 
 **Requirements:**
 
