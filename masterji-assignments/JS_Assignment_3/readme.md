@@ -1,4 +1,5 @@
 ##Quote of the Day
+**URL:** https://salswa.github.io/chai-dev-cohort/masterji-assignments/JS_Assignment_3/ 
 
 **Objective:** Create a simple website that fetches and displays a random quote from the API.
 
