@@ -5,11 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web Dev Cohort</title>
 </head>
+    <style>
+        .sort-line-items {
+            width: 100px;
+            height: 40px;
+            padding: 10px;
+            text-wrap-mode: wrap;
+            word-break: break-word;
+        }
+    </style>
 <body>
     <h1> Web Dev Cohort Assignments and Projects</h1>
     <ul>
         <h3>Masterji Assignments</h3>
         <li><a href ="masterji-assignments/JS_Assignment_3/">JS_Assignment_3</a> </li>
     </ul>
+    <select id="sorting" name="sorting" class="sort-line-items">
+        <option value="Standard" ng-reflect-value="Standard">Standaardsortering Web Dev Cohort Assignments and Projects</option>
+        <option value="Ascending" ng-reflect-value="Ascending">Naam A-Z</option>
+        <option value="Descending" ng-reflect-value="Descending">Naam Z-A</option>
+    </select>
 </body>
 </html>
